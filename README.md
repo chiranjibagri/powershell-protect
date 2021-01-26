@@ -1,6 +1,6 @@
 # PowerShell Protect
 
-![](./icon.png)
+<img src="https://github.com/ironmansoftware/powershell-protect/raw/master/icon.png" width="200" height="200" />
 
 Configurable Anti-malware scan interface. 
 
