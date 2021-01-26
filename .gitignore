@@ -1,0 +1,7 @@
+output/
+Debug/
+.vs/
+Release/
+x64/
+bin/
+obj/

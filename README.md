@@ -1,19 +1,17 @@
-# PowerShell Protect 
+# PowerShell Protect
 
-Audit and block PowerShell scripts in your Windows environment. 
+![](./icon.png)
 
-# Installation
+Configurable Anti-malware scan interface. 
 
-```
+## Get Started 
+
+```powershell
 Install-Module PowerShellProtect
 Install-PowerShellProtect
 ```
 
-# Resources
+## Resources
 
 - [Documentation](https://docs.powershellprotect.com)
-- [Purchasing](https://ironmansoftware.com/products/powershell-protect)
-
-# Example Configs
-
-The example configurations are stored in the `example-configs` folder. 
+- [License](./LICENSE)

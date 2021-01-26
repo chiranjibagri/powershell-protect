@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Obfuscator>
+  <Var name="InPath" value=".\" />
+  <Var name="OutPath" value=".\obfuscated" />
+
+  <Module file="$(InPath)\PowerShellProtect.dll" />
+</Obfuscator>
