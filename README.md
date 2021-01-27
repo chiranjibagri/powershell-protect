@@ -27,3 +27,4 @@ Install-PowerShellProtect
 
 - [Documentation](https://docs.powershellprotect.com)
 - [License](./LICENSE)
+- [Download](https://www.powershellgallery.com/packages/PowerShellProtect)
